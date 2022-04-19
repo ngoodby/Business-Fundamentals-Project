@@ -1,5 +1,5 @@
 # Metis Business Fundamentals Project
-# City of Boulder EV Charging Station Health Assessment
+## City of Boulder EV Charging Station Health Assessment
 
 **Visualizations:**
 - The associated Tableau dashboard for this project can be found [here](https://public.tableau.com/views/BoulderEVChargingStations/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
