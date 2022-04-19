@@ -15,7 +15,7 @@
 *Algorithms:* The combined data were used to derive information about failure rates per charging event at each station, which was used to better understand which stations are most in need of maintenance. The data were also used to derive the percent of a given month that a plug at a given station was in use to understand station traffic and plug demand.
 
 *Tools*
-•	Python (Pandas, Requests, and Beautiful Soup) to scrape info on number of plugs and fee for each station
-•	Geopandas to geolocate lat/long coordinates from addresses
-•	Excel to join info on number of plugs and presence of a fee to the main dataset, manipulate data, and generate variables of interest
-•	Tableau to create an interactive dashboard of results
+- Python (Pandas, Requests, and Beautiful Soup) to scrape info on number of plugs and fee for each station
+- Geopandas to geolocate lat/long coordinates from addresses
+- Excel to join info on number of plugs and presence of a fee to the main dataset, manipulate data, and generate variables of interest
+- Tableau to create an interactive dashboard of results
